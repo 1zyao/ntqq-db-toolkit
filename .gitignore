@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.db
+*.db-wal
+*.db-shm
+*.material
+*.sqlite
+plain*.db
+out/
+corpus/
+*.qqxlog
+*.log
